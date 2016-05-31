@@ -1,5 +1,5 @@
-[![Build Status](https://travis-ci.org/bgruening/galaxy-open-molecule-generator.svg?branch=master)](https://travis-ci.org/bgruening/galaxy-open-molecule-generator)
-[![Docker Repository on Quay](https://quay.io/repository/bgruening/galaxy-open-molecule-generator/status "Docker Repository on Quay")](https://quay.io/repository/bgruening/galaxy-open-molecule-generator)
+[![Build Status](https://travis-ci.org/gianlucacorrado/galaxy-RNAcommender.svg?branch=master)](https://travis-ci.org/gianlucacorrado/galaxy-RNAcommender.svg?branch=master)
+[![Docker Repository on Quay](https://quay.io/repository/gianlucacorrado/galaxy-rnacommender/status "Docker Repository on Quay")](https://quay.io/repository/gianlucacorrado/galaxy-rnacommender/status)
 
 # RNAcommender
 
