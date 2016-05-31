@@ -42,4 +42,4 @@ tools:
 - name: rnacommender
   owner: rnateam
   tool_panel_section_label: RNA
-  tool_shed_url: https://toolshed.g2.bx.psu.edu/view/rnateam/rnacommender/
+  tool_shed_url: https://toolshed.g2.bx.psu.edu
