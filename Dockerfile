@@ -9,6 +9,6 @@ ENV GALAXY_CONFIG_BRAND="RNAcommender"
 ENV GALAXY_CONFIG_CONDA_AUTO_INSTALL=True \
     GALAXY_CONFIG_CONDA_AUTO_INIT=True
 
-# Install deepTools
+# Install RNAcommender
 ADD rnacommender.yaml $GALAXY_ROOT/tools.yaml
 RUN install-tools $GALAXY_ROOT/tools.yaml
