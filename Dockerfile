@@ -10,7 +10,6 @@ ENV GALAXY_CONFIG_CONDA_AUTO_INSTALL=True \
     GALAXY_CONFIG_CONDA_AUTO_INIT=True \
     GALAXY_CONFIG_CONDA_ENSURE_CHANNELS=r,bioconda,iuc,omnia
 
-
 # Install RNAcommender
 ADD rnacommender.yaml $GALAXY_ROOT/tools.yaml
 RUN install-tools $GALAXY_ROOT/tools.yaml
