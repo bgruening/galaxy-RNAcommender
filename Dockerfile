@@ -1,6 +1,6 @@
 # Galaxy - RNAcommender
 
-FROM quay.io/bgruening/galaxy:dev
+FROM quay.io/bgruening/galaxy:16.04
 
 MAINTAINER Gianluca Corrado gianluca.corrado@unitn.it
 
